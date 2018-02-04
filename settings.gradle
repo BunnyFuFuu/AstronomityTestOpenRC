@@ -1,0 +1,4 @@
+include ':FtcRobotController', ':RobotCore', ':FtcCommon', ':Hardware', ':Inspection', ':OpenRC', ':Turbo'
+include ':TeamCode'
+
+include ':openCVLibrary331'
